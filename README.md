@@ -73,5 +73,5 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-- 🎓 I am a researcher proficient in Bioinformatics, specializing in the field of GENE EDITING and AI4S!
-- 🎓 I am now a Ph.D. candidate jointly trained by Tsinghua University and Peking University.
+- 🎓 I am a researcher proficient in Bioinformatics, specializing in the field of Spatial Multiomics and AI4S!
+- 🎓 I am now a Ph.D. candidate trained by Peking Union Medical Collage.
